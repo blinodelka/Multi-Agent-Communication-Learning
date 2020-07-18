@@ -10,4 +10,4 @@ Code and materials for the paper: Dubova, M., & Moskvichev, A. (2020, July). Eff
 
 You can find the simulation data at the OSF page of the project: https://osf.io/y3hkm/
 
-![Test Image 4](https://github.com/blinodelka/Multi-Agent-Communication-Learning/blob/master/ALIFE_poster_FINAL.pdf)
+![Test Image 4](https://github.com/blinodelka/Multi-Agent-Communication-Learning/blob/master/poster.png)
